@@ -1,4 +1,8 @@
-- 👋 Hi, I’m @TheShare
+- hey im some guy on the internet who plays mc and sometimes codes
+- discord: _ share#0001 (no space between the underscore and the s)
+- minecraft user: _ share (no space between the underscore and the s)
+- youtube channel: https://youtube.com/sharesyt
+- thank you for reading
 
 
 <!---
