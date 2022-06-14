@@ -5,7 +5,7 @@
 - thank you for reading
 - stats:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TheShare &theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TheShare&theme=radical)
 
 
 <!---
