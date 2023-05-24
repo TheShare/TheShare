@@ -1,33 +1,13 @@
 introduction
 -
-hey im some guy on the internet who plays mc and sometimes codes
+I am a SFS modder and enjoys space and geography.
 
-stuff
+Current projects:
 -
+ShareSpace Engines V3
+SSCP
 
-**there are no spaces between the underscored and the s.**<br>
-
-discord: **_ share#0001**<br>
-
-
-minecraft user: **_ share**<br>
-
-youtube channel: https://youtube.com/channel/UC69YnYhGh4v6ktSg9_npXyQ
-
-my @: @TheShare
-
-current projects
--
-ShareSpace engines
-
-bye bye
--------------------------
-thank you for reading
-
-stats
 ---------------------------------------
-
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TheShare&theme=radical)
 
 
